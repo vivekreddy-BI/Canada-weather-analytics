@@ -1,5 +1,4 @@
 # Power BI temp files
-*.pbi*
 *.tmp
 *.log
 
