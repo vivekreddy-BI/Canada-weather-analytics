@@ -126,7 +126,7 @@ All visuals respond dynamically to city selection, ensuring a consistent and int
 
 ![Dashboard](screenshots/Screenshot%20Toronto.png)
 
-Here’s a live previeW:
+Here’s a live preview:
 
 ![Dashboard Preview](screenshots/Animation.gif)
 
